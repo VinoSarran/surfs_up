@@ -6,7 +6,7 @@ This analysis helps examine the risk of opening a business that needs to functio
 ### Results: 
 - Running a distinct count on the table housing retired employees and their titles shows that more than 90,000 employees could be retiring of the 300,000 in the employee table:
        <br>
- ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/90kretiring.PNG?raw=true)
+ ![alt text](https://github.com/VinoSarran/surfs_up/blob/main/June.PNG?raw=true)
         <br>
 - Further inspection shows a need to clean data further.  Some of the employees have had numerous titles.  Restricting the table to only show current titles will remove duplicates and shows that more than 72,000 employees could be retiring of the 300,000 in the employee table:        
   ![alt text](https://github.com/VinoSarran/Pewlett-Hackard-Analysis/blob/main/Resources/70Kstillworking.PNG?raw=true)
