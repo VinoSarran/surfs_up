@@ -1,7 +1,7 @@
-# “Always pass on what you have learned.” — Yoda
+# “I scream. You scream.  We all scream for Beach Cream”
 
 ## Overview of Project:
-This analysis measures the risk of an organization as a portion of its tenured work force nears retirement.  They can brace for impact or leverage remaining time or come up with creative incentives to knowledge share with younger generations of employees.
+This analysis helps examine the risk of opening a business that needs to function year round, year after year. What better way to gain insight than looking at the extremes: Mid Summer-June and Mid Winter-December for every year within the data.   
 
 ### Results: 
 - Running a distinct count on the table housing retired employees and their titles shows that more than 90,000 employees could be retiring of the 300,000 in the employee table:
